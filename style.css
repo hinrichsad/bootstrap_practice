@@ -1,0 +1,18 @@
+.hoverGP:hover {
+	background-color: blueviolet;
+}
+.form-group{
+	margin-left: 15px;
+	width: 20%;
+}
+.submit{
+	margin-left: 7%;
+	padding-top: 0;
+	margin-top: 0;
+}
+img{
+    height: 200px;
+}
+.carousel{
+    width: 30%;
+}
